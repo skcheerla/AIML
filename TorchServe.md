@@ -1,6 +1,9 @@
 Absolutely ✅ — you can deploy **TorchServe** on **Kubernetes** in a very similar way to TensorFlow Serving.
 Let’s go step-by-step through **how to serve any PyTorch model with TorchServe on Kubernetes**, including model export, configuration, manifests (Deployment + Service), and production best practices.
 
+
+https://www.youtube.com/watch?v=XlO7iQMV3Ik&t=45s
+
 ---
 
 ## 🔧 Overview: What is TorchServe?
